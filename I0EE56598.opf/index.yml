@@ -1,0 +1,9 @@
+id: c7a9b24b05474be39ff7a62f8c475d6b
+annotation_type: index
+revision: '00001'
+annotations:
+  f0326c7383b741178c5721b22fe990a8:
+    base: fFCC6.txt
+    span:
+      start: 0
+      end: 12
